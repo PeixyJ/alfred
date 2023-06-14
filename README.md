@@ -10,4 +10,4 @@
 
 | 名称| 作用| 地址 |
 |---|---|---|
-|杀死JavaPort | 关闭JavaPort | [下载](./Kill Java Port.alfredworkflow)|
+|杀死JavaPort | 关闭JavaPort | [下载](https://github.com/PeixyJ/alfred/blob/main/Kill%20Java%20Port.alfredworkflow)|
